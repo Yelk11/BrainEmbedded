@@ -1,4 +1,4 @@
-# A Walkthrough of the Software Development Process: From Idea to Launch
+# A Walkthrough of the Software Development Process
 
 Developing software is a complex and multifaceted process that involves a wide range of activities. In this post, we'll take a high-level look at the software development process, from idea to launch.
 
