@@ -15,7 +15,7 @@ Python is a popular programming language used in data science, and one of the re
 
 NumPy is a fundamental library for scientific computing in Python. It provides support for arrays and matrices, as well as mathematical functions to operate on them. NumPy is essential for data manipulation and numerical computing, making it a key library for data science.
 
-1. Pandas
+1. [Pandas](https://brainembedded.hashnode.dev/mastering-data-manipulation-and-analysis-with-pandas-a-comprehensive-guide)
     
 
 Pandas is a library that provides data structures and tools for data analysis. It allows users to easily manipulate and analyze data, including reading and writing data in various formats. Pandas is particularly useful for dealing with structured data, such as data from spreadsheets or SQL databases.
