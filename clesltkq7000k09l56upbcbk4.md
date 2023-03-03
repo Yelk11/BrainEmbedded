@@ -10,7 +10,7 @@ tags: data-science, python3, keras, pytorch, networkx
 
 Python is a popular programming language used in data science, and one of the reasons for its popularity is the vast array of libraries available. These libraries provide pre-built functions and tools that can help data scientists streamline their workflow and perform complex data analysis more efficiently. In this blog post, we'll explore 10 Python libraries that every data scientist should know about.
 
-1. NumPy
+1. [NumPy](https://brainembedded.hashnode.dev/mastering-numpy-a-guide-to-efficient-scientific-computing-in-python)
     
 
 NumPy is a fundamental library for scientific computing in Python. It provides support for arrays and matrices, as well as mathematical functions to operate on them. NumPy is essential for data manipulation and numerical computing, making it a key library for data science.
