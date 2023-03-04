@@ -62,4 +62,4 @@ NetworkX is a library for network analysis in Python. It allows users to build, 
 
 In conclusion, these 10 Python libraries are essential tools for any data scientist working with Python. By mastering these libraries, data scientists can streamline their workflow, perform complex data analysis, and gain valuable insights from their data.
 
-Are you struggling with productivity and finding it hard to stay focused? Our Pomodoro mobile app can help! By using the Pomodoro technique, our app helps you to break down your work into manageable chunks, with short breaks in between to help you stay energized and focused. With a sleek and user-friendly interface, our app is the perfect tool to help you boost your productivity and get more done in less time. So why wait? Download our [Pomodoro mobile app](https://play.google.com/store/apps/details?id=com.yelk11.pomodoro) today and start taking control of your productivity!
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png align="left")](https://www.buymeacoffee.com/yelk11)
