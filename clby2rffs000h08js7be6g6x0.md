@@ -1,4 +1,12 @@
-# 3 Ways to begin your coding skills
+---
+title: "3 Ways to begin your coding skills"
+datePublished: Wed Dec 21 2022 19:55:40 GMT+0000 (Coordinated Universal Time)
+cuid: clby2rffs000h08js7be6g6x0
+slug: 3-ways-to-begin-your-coding-skills
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671651886764/Czkx2POEs.jpeg
+tags: java, learning, python3, beginners, beginner2advanced
+
+---
 
 When I was younger I wanted to buy a GameCube and MarioKart. My parents very quickly said no, as they didn't want to spend the money; but my Dad thought programming knowledge was a better gift and said why don't you go a code your own game. Now, things weren't like today, with easy-to-use programming engines. You had to do everything from scratch. it frustrated the heck out of me!
 
@@ -6,7 +14,7 @@ I quickly agreed to this arrangement and started my course on learning to write 
 
 So what would I do differently?
 
-1.  I would have picked a friendly programming language.
+1. I would have picked a friendly programming language.
     
     I started with Java, and to be honest, that is a wonderful language to start with. But what I would have done differently was to look around for a language that I could easily learn and feel supported by.
     
@@ -14,11 +22,11 @@ So what would I do differently?
     
     [**Python**](https://www.python.org/downloads/)**:** Great for beginners/ younger people. Choose this option if you want to write small short scripts and automate things on your computer and in real life!
     
-    **Java****:** This language is business, server and mobile-focused (notice I didn't say games). Choose this option if you want a better understanding of the concepts of Object Oriented Programming (OOP) or just want to get a job.
+    **Java**\*\*:\*\* This language is business, server and mobile-focused (notice I didn't say games). Choose this option if you want a better understanding of the concepts of Object Oriented Programming (OOP) or just want to get a job.
     
     C#**:** This is an amazing choice for writing games, especially with game engines like Unity
     
-2.  Practice
+2. Practice
     
     Honestly just goof around, and play.
     
@@ -26,7 +34,7 @@ So what would I do differently?
     
     Make dumb programs that print hello 5,000,000,000 times.
     
-3.  Build stuff
+3. Build stuff
     
     Once you have the basics down, start planning larger and larger programs. Now, it is important to start small. Keep everything down to one or two features and grow from there.
     
@@ -40,4 +48,5 @@ So what would I do differently?
     
     In these 3 simple practices, you can become a great programmer. I cant wait to see what projects you make!
     
-    Feel free to check out my current project [Pomodoro Focus Timer](https://play.google.com/store/apps/details?id=com.yelk11.pomodoro)
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png align="left")](https://www.buymeacoffee.com/yelk11)
