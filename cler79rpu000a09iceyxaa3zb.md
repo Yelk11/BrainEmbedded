@@ -47,4 +47,4 @@ One way to stay motivated is to work on projects that interest you. If you're in
 
 In conclusion, learning Python is a great way to develop your coding skills and open up new opportunities in your career. By following these tips and utilizing the resources available to you, you'll be well on your way to becoming a proficient Python developer. Remember to stay motivated, practice regularly, and don't be afraid to ask for help when you need it. Happy coding!
 
-Are you struggling with productivity and finding it hard to stay focused? Our Pomodoro mobile app can help! By using the Pomodoro technique, our app helps you to break down your work into manageable chunks, with short breaks in between to help you stay energized and focused. With a sleek and user-friendly interface, our app is the perfect tool to help you boost your productivity and get more done in less time. So why wait? Download our [Pomodoro mobile app](https://play.google.com/store/apps/details?id=com.yelk11.pomodoro) today and start taking control of your productivity!
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png align="left")](https://www.buymeacoffee.com/yelk11)
