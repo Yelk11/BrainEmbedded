@@ -1,4 +1,13 @@
-# Life after Windows: was changing to Apple Mac M1 worth it?
+---
+title: "Life after Windows: was changing to Apple Mac M1 worth it?"
+datePublished: Sat Dec 24 2022 15:52:21 GMT+0000 (Coordinated Universal Time)
+cuid: clc24e2bm000208jwe2o02djj
+slug: life-after-windows-was-changing-to-apple-mac-m1-worth-it
+canonical: https://brainembedded0.wordpress.com/2022/12/23/life-after-windows-was-changing-to-apple-mac-m1-worth-it/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mP7aPSUm7aE/upload/82afe99bb78ade6cb6715408969fe8a3.jpeg
+tags: m1-mac, apple-vs-windows
+
+---
 
 I have fully converted over to the dark side. Everything I grew up hating or newly looking down at I have now fully embraced. I own a MacBook. To be specific it's just a MacBook air m1. I didn't see any reason in getting the more expensive version of the laptop and I'm glad I didn't.
 
@@ -15,3 +24,5 @@ In one of my classes, I was asked to write a program that reads an excel sheet. 
 Conclusion:
 
 I enjoy having my Apple Macbook m1, and though it has caused some problems in my programming they have been problems that I can solve.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png align="left")](https://www.buymeacoffee.com/yelk11)
