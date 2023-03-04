@@ -4,6 +4,7 @@ datePublished: Tue Jan 31 2023 15:51:39 GMT+0000 (Coordinated Universal Time)
 cuid: cldkf3jdw01mv4onvdjqhdfx2
 slug: an-introduction-to-software-development-languages-and-when-to-use-them
 canonical: https://brainembedded0.wordpress.com/?p=48
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fDsCIIGdw9g/upload/de8ca0f10a2bfec25903d5cd55170a21.jpeg
 
 ---
 
