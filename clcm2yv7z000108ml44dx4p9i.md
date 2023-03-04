@@ -1,4 +1,12 @@
-# Learning how to build a compiler: My journey
+---
+title: "Learning how to build a compiler: My journey"
+datePublished: Sat Jan 07 2023 15:07:55 GMT+0000 (Coordinated Universal Time)
+cuid: clcm2yv7z000108ml44dx4p9i
+slug: learning-how-to-build-a-compiler-my-journey
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/g5f0BJq-FRs/upload/a52618e91266e220cebe6a4cd4e98a61.jpeg
+tags: c, learning, compiler, learning-in-public
+
+---
 
 Learning how to program can feel like a large and complicated task. And for the most part, it is. Right now I'm pushing to better understand the C programming language. I have learned many other languages like Java, Python, and a little C++.
 
@@ -15,3 +23,5 @@ Taking on projects that are almost out of your reach is a great way to expand yo
 If you like this content, please like it. And if you want to be updated on my work, please sign up for the email list.
 
 [Here is a link to the compiler Github repo](https://github.com/Yelk11/Compiler)
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png align="left")](https://www.buymeacoffee.com/yelk11)
