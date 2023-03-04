@@ -1,4 +1,13 @@
-# How to: ways to practice programming
+---
+title: "How to: ways to practice programming"
+datePublished: Sat Dec 24 2022 15:16:42 GMT+0000 (Coordinated Universal Time)
+cuid: clc2348cm000308mpd3nvfh5e
+slug: how-to-ways-to-practice-programming
+canonical: https://brainembedded0.wordpress.com/2022/12/23/how-to-ways-to-practice-programming/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/901059b3e76123a8a313673882c0be97.jpeg
+tags: programming, projects, practice, general-advice
+
+---
 
 Programming is a skill that I believe anyone can learn and get better at. But the only way that you will get better is by doing. Reading about new tips and techniques will prime you, but they will not become second nature unless they are used many times. what to do to practice
 
@@ -32,3 +41,5 @@ tutorials
 Tutorials offer a great spring board to get your practice project moving. Sometimes when you just don't know what to do or what ways are there to tackle a problem, its worth looking for a tutorial. Honestly, try to find several that tackle a problem, because they will usually show you different solution. This is a great learning tool for beginners and experts, because it allows you to expand how you think about the problem. when to move on from a project
 
 Now that you have a project either done, or close to done. How do you know when to move on? When the project has become stale for a few weeks or months, its safe to say that the problem you were tackling has either been completed or you no longer have interest. Thats okay to lose interest. Just move on to something else, an unfinished project is still worth more than something you never completed.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png align="left")](https://www.buymeacoffee.com/yelk11)
