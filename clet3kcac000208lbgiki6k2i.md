@@ -57,4 +57,4 @@ Conclusion
 
 Python's popularity in AI and ML is a testament to its versatility and ease of use. With its large community of developers and vast array of libraries and tools, Python is the go-to language for many AI and ML projects. Whether you're working on natural language processing, computer vision, deep learning, or robotics, Python has the tools and resources you need to succeed.
 
-Are you struggling with productivity and finding it hard to stay focused? Our Pomodoro mobile app can help! By using the Pomodoro technique, our app helps you to break down your work into manageable chunks, with short breaks in between to help you stay energized and focused. With a sleek and user-friendly interface, our app is the perfect tool to help you boost your productivity and get more done in less time. So why wait? Download our [Pomodoro mobile app](https://play.google.com/store/apps/details?id=com.yelk11.pomodoro) today and start taking control of your productivity!
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png align="left")](https://www.buymeacoffee.com/yelk11)
